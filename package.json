@@ -15,7 +15,7 @@
     "ppdm",
     "nodejs"
   ],
-  "author": "Cristiano Correa de Moraes",
+  "author": "Carolina Vitória Chaves Silva",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
